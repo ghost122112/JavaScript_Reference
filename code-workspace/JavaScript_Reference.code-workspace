@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "JavaScript_Reference",
+			"path": ".."
+		},
+		{
+			"name": "JavaScript",
+			"path": "../../../../Desktop/JavaScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript_Reference"
+	}
+}
